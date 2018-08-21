@@ -1,0 +1,12 @@
+body {
+	background-color: purple;
+}
+h1, h2 {
+	text-align: center;
+}
+#paragraph1{
+	color: blue;
+}
+#paragraph2{
+	color: green; 
+}
